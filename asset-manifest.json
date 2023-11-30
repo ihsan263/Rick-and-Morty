@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ihsan263/Rick-and-Morty.git/static/css/main.2c20c85f.css",
+    "main.js": "/ihsan263/Rick-and-Morty.git/static/js/main.04777f88.js",
+    "static/js/787.a3fa7a1a.chunk.js": "/ihsan263/Rick-and-Morty.git/static/js/787.a3fa7a1a.chunk.js",
+    "index.html": "/ihsan263/Rick-and-Morty.git/index.html",
+    "main.2c20c85f.css.map": "/ihsan263/Rick-and-Morty.git/static/css/main.2c20c85f.css.map",
+    "main.04777f88.js.map": "/ihsan263/Rick-and-Morty.git/static/js/main.04777f88.js.map",
+    "787.a3fa7a1a.chunk.js.map": "/ihsan263/Rick-and-Morty.git/static/js/787.a3fa7a1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c20c85f.css",
+    "static/js/main.04777f88.js"
+  ]
+}
